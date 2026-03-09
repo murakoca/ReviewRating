@@ -1,0 +1,5 @@
+http://127.0.0.1:5000/predict
+
+{
+  "review_text": "really bad product it is broken for the moment"
+}
